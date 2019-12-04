@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LyricsSearch/static/css/main.53bb9ab9.chunk.css",
+    "main.js": "/LyricsSearch/static/js/main.2f146f17.chunk.js",
+    "main.js.map": "/LyricsSearch/static/js/main.2f146f17.chunk.js.map",
+    "runtime~main.js": "/LyricsSearch/static/js/runtime~main.fb165155.js",
+    "runtime~main.js.map": "/LyricsSearch/static/js/runtime~main.fb165155.js.map",
+    "static/css/2.a450b063.chunk.css": "/LyricsSearch/static/css/2.a450b063.chunk.css",
+    "static/js/2.1085b207.chunk.js": "/LyricsSearch/static/js/2.1085b207.chunk.js",
+    "static/js/2.1085b207.chunk.js.map": "/LyricsSearch/static/js/2.1085b207.chunk.js.map",
+    "index.html": "/LyricsSearch/index.html",
+    "precache-manifest.0547d44167c173f020a9c814874ce535.js": "/LyricsSearch/precache-manifest.0547d44167c173f020a9c814874ce535.js",
+    "service-worker.js": "/LyricsSearch/service-worker.js",
+    "static/css/2.a450b063.chunk.css.map": "/LyricsSearch/static/css/2.a450b063.chunk.css.map",
+    "static/css/main.53bb9ab9.chunk.css.map": "/LyricsSearch/static/css/main.53bb9ab9.chunk.css.map",
+    "static/media/mdb.css": "/LyricsSearch/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/LyricsSearch/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/spin.gif": "/LyricsSearch/static/media/spin.cecae62e.gif"
+  }
+}
